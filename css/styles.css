@@ -10866,7 +10866,19 @@ html {
     font-size: 3rem;
     line-height: 2.5rem;
   }
+  .page-section h2{
+    margin-top:50px;
+  }
+  .page-section p{
+    font-size: 12px;
+    color:#333;
+    font-weight: bold;
+    text-align: center;
+
 }
+.page-section audio{
+  margin-left: 39%;}
+
 
 .divider-custom {
   margin: 1.25rem 0 1.5rem;
