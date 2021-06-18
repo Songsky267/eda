@@ -10844,18 +10844,23 @@ html {
 
 .page-section {
   padding: 6rem 0;
+  position: relative;
 }
 .page-section p{
-  font-size: 30px;
+  font-size: 18px;
   color:#333;
   font-weight: bold;
   text-align: center;
+
 }
 .page-section audio{
-  margin-left: 39%;
+  position:absolute;
+ left: 50%;
+transform: translate(-50%);
+  
 }
 .page-section h2{
-  margin-top:50px;
+  margin-top:100px;
 
 }
 .page-section .page-section-heading {
@@ -10867,6 +10872,8 @@ html {
     font-size: 3rem;
     line-height: 2.5rem;
   }
+
+  
 }
 
 .divider-custom {
