@@ -7327,7 +7327,7 @@ fieldset:disabled .btn {
 .mb-4 {
   margin-bottom: 1.5rem !important;
   font-weight: bold;
-  font-size: 35px;
+  font-size: 15px;
 }
 
 .mb-5 {
@@ -11338,7 +11338,7 @@ html {
   padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
-  font-size: 2.75rem;
+  font-size: 1.45rem;
   line-height: 2.75rem;
 }
 .masthead .masthead-subheading {
@@ -11409,13 +11409,12 @@ html {
 }
 
 .portfolio-modal .portfolio-modal-title {
-  font-size: 2.25rem;
   line-height: 2rem;
 }
 @media (min-width: 992px) {
   .portfolio-modal .portfolio-modal-title {
     font-size: 1rem;
-    line-height: 2.5rem;
+    line-height: 1rem;
   }
 }
 
