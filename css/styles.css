@@ -489,6 +489,9 @@ progress {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  text-align: center;
+  display: inline;
+  margin-left: 50px;
 }
 
 .display-1 {
@@ -7332,6 +7335,7 @@ fieldset:disabled .btn {
 
 .mb-5 {
   margin-bottom: 3rem !important;
+  margin-left: 100px;
 }
 
 .mb-auto {
@@ -11409,6 +11413,7 @@ html {
 
 .portfolio-modal .portfolio-modal-title {
   line-height: 2rem;
+  font-size: 2.25rem;
 }
 @media (min-width: 992px) {
   .portfolio-modal .portfolio-modal-title {
