@@ -11342,7 +11342,7 @@ html {
   line-height: 2.75rem;
 }
 .masthead .masthead-subheading {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 .masthead .masthead-avatar {
   width: 15rem;
@@ -11414,7 +11414,7 @@ html {
 }
 @media (min-width: 992px) {
   .portfolio-modal .portfolio-modal-title {
-    font-size: 3rem;
+    font-size: 1rem;
     line-height: 2.5rem;
   }
 }
